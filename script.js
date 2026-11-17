@@ -4,17 +4,17 @@
    EDIT THIS PART: everything on the page comes from CONFIG.
    ========================================================= */
 const CONFIG = {
-  herName: "Princess",
-  yourName: "Your Name",
+  herName: "Bhavika",
+  yourName: "Lakshay",
   eventName: "Princess Day",
-  eventDate: "August 18",
+  eventDate: "November 18",
 
   introText:
     "I wanted to do something special for you, so I made something just for you... Click below to see what it is! ✨",
 
   letter: [
-    "I don't say it enough, but you make every ordinary day feel a little bit magical.",
-    "Your laugh is my favorite sound, your smile is my favorite view, and being around you is my favorite place to be.",
+    "Baby i have made this just for you i know im not a techie i have tried making this for first time for you only hope you like it.",
+    " You are my favourite person and my safe space thank you for being there for me i like you bahaut saaraaaa♥️♥️♥️♥️♥️.",
     "Today is yours. You deserve a crown, a castle and all the happiness in the world, but all I could build was this little page. I hope it makes you smile.",
   ],
 
